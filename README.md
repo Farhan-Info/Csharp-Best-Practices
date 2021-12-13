@@ -1,3 +1,2 @@
-<<<<<<< HEAD
-# CSharpBP-Basics
+CSharpBP-Basics
 
